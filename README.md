@@ -10,7 +10,7 @@
 
 ## Tanto a função de depósito quanto saque realizam a verificação do valor informado para assegurar que trata-se de um número válido (> 0). A função de saque verifica se há fundos para concluir a operação, mas também verifica se o número máximo diário de saques foi ou não atingido (= 3 saques diários) e se o valor solicitado para retirada é menor que R$500,00. Ambas funções, se devidamente executadas, incrementam a variável extrato com uma nova string, que registra a natureza da operação e a quantia movimentada.
 
-## A função "exibe_extrato" é igualmente autoexplicativa; exibe o saldo atual e as movimentações executadas. Vale lembrar que essa função também poderia sofrer melhorias, como identificar a conta e o cliente, por exemplo. Mas, por questões de disponibilidade de tempo, tal implementação não foi realizada.
+## A função "exibe_extrato" é igualmente autoexplicativa; exibe o saldo atual e as movimentações executadas. Vale lembrar que essa função também poderia sofrer melhorias, como identificar a conta e o cliente, por exemplo. Mas, por questões de disponibilidade de tempo, tal implementação ainda não foi realizada.
 
 ## O projeto foi, sim, desafiador, porém, posso dizer que também foi muito recompensador perceber o resultado final. Sim, é um algoritmo muito simples e nem é realmente funcional, mas é muito prazeroso observar a lógica por trás de tudo e como tudo funciona ordenadamente. A programação e o que pode ser construído a partir dela é maravilhosamente belo!
 
